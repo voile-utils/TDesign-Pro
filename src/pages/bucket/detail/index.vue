@@ -60,7 +60,7 @@ onBeforeUnmount(() => {
   z-index: 199;
 }
 .content {
-  padding-top: 32px;
+  padding-top: 48px;
   padding-left: 180px;
 }
 .side {

@@ -3,7 +3,7 @@
 </template>
 
 <script setup lang="ts">
-import List from '@/pages/list/base/index.vue';
+import List from './components/table/index.vue';
 </script>
 
 <style lang="less" scoped></style>

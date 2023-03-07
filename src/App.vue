@@ -4,6 +4,7 @@
 <script setup lang="ts">
 import { computed } from 'vue';
 import { useSettingStore } from '@/store';
+import { getPurchaseList } from '@/api/detail';
 
 const store = useSettingStore();
 
